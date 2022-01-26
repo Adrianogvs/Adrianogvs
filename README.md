@@ -6,7 +6,6 @@
 ### Olá !👋
 
 <br />
-<br />
 
 #### Meu nome é Adriano Vilela, atuo há mais de 6 anos na área de tecnologia da informação, formação acadêmica, bacharelado em Engenharia de Software e curando MBA em Tecnologia para Negócios AI, Data Science e Big Data.
 
