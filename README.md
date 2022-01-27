@@ -1,5 +1,4 @@
 [![author](https://img.shields.io/badge/author-adrianogvs-red.svg)](https://www.linkedin.com/in/adrianogvs) 
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Adrianogvs/002-Projects-Data-Science/blob/master/LICENSE) 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Adrianogvs/002-Projects-Data-Science)
 
 
@@ -22,7 +21,7 @@
 Cód. | Curso | Carga Horária | Certificados
 -----|-----|-----|-----
 01 | Bacharel em Engenharia de Software | 3600 Horas | <p align="left">https://bit.ly/engenharia--de--software</p>
-02 | Data Engineering Com AWS & Cia | 18 Horas | <p align="left">https://bit.ly/engineering-com-aws</p>
+02 | Bootcamp Data Engineering Com AWS & Cia | 18 Horas | <p align="left">https://bit.ly/engineering-com-aws</p>
 03 | Gerenciamento de Projeto de Software | 120 Horas |  <p align="left">https://bit.ly/gerenciamento-projeto-software</p>
 04 | Bootcamp Desenvolvedor Business Intelligence | 148 Horas | <p align="left">https://bit.ly/business--intelligence</p>
 05 | Bootcamp Ciencias de Dados | 148 Horas | <p align="left">https://bit.ly/ciencias-de-dados</p>
