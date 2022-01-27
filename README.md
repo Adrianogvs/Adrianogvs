@@ -35,6 +35,8 @@ Cód. | Curso | Carga Horária
 ---|---|---
 01 | MBA em Tecnologia para Negócios AI, Data Science e Big Data. | 660 Horas
 02 | Data Science em Produção | 452 Horas
+03 | Bootcamp Desenvolver Python | 148 Horas
+
 
 
 <br />
