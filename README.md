@@ -35,6 +35,8 @@ Cód. | Curso | Carga Horária
 01 | MBA em Tecnologia para Negócios AI, Data Science e Big Data. | 660 Horas
 02 | Data Science em Produção | 452 Horas
 03 | Bootcamp Desenvolver Python | 148 Horas
+04 | Microsoft Power BI Para Data Science, Versão 2.0 | 72 Horas
+05 | Python Fundamentos Para Análise de Dados 3.0 | 60 Horas
 
 
 
@@ -56,6 +58,8 @@ Cód. | Curso | Carga Horária
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" />&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40" height="40"/>&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />&ensp;&ensp;
+<img src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png" width="40" height="40"/>&ensp;&ensp;
+<img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40"/>&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>&ensp;&ensp;<p></>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"/>&ensp;&ensp;
@@ -69,6 +73,8 @@ Cód. | Curso | Carga Horária
 <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="40" height="40"/>&ensp;&ensp;
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"  width="40" height="40"/>&ensp;&ensp;
 <img src="https://img.icons8.com/color/48/000000/css3.png"  width="40" height="40"/>&ensp;&ensp;
+<img src="https://img.icons8.com/fluency/48/000000/jupyter.png" width="40" height="40"/>&ensp;&ensp;
+<img src="https://img.icons8.com/ios/50/000000/sql.png" width="40" height="40"/>&ensp;&ensp;
 </div>
 
 <br />
