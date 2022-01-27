@@ -7,12 +7,12 @@
 
 <br />
 
-#### Meu nome é Adriano Vilela, atuo há mais de 6 anos na área de tecnologia da informação, formação acadêmica, bacharelado em Engenharia de Software e curando MBA em Tecnologia para Negócios AI, Data Science e Big Data.
+#### Meu nome é Adriano Vilela, atuo há mais de 6 anos na área de tecnologia da informação, formação acadêmica, bacharelado em Engenharia de Software e estou cursando MBA em Tecnologia para Negócios AI, Data Science e Big Data.
 
 <p>
 <p>
 
-#### Atualmente exerço a função de Analista de Inteligência de Dados no Grupo Águia Branca, empresa brasileira do segmento de transporte rodoviário de passageiros, com atuações vários estados.
+#### Atualmente exerço a função de Analista de Inteligência de Dados no Grupo Águia Branca, empresa brasileira do segmento de transporte rodoviário de passageiros, com atuação em vários estados.
 
 <br />
 <br />
@@ -21,11 +21,11 @@
 ### Cursos Concluídos e Certificações
 Cód. | Curso | Carga Horária | Certificados
 -----|-----|-----|-----
-01 | Bacharel em Engenharia de Software | 3600 Horas | <p align="left">https://bit.ly/engenharia-software</p>
-02 | Data Engineering Com AWS & Cia | 18 Horas | <p align="left">https://bit.ly/data-engineering-aws-cia</p>
-03 | Gerenciamento de Projeto de Software | 120 Horas |  <p align="left">https://bit.ly/Certificado-gerenciamento-projeto-software</p>
-04 | Bootcamp Desenvolvedor Business Intelligence | 148 Horas | <p align="left">https://bit.ly/certificado-business-intelligence"</p>
-05 | Bootcamp Ciencias de Dados | 148 Horas | <p align="left">https://bit.ly/certificado-ciencias-dados</p>
+01 | Bacharel em Engenharia de Software | 3600 Horas | <p align="left">https://bit.ly/engenharia--de--software</p>
+02 | Data Engineering Com AWS & Cia | 18 Horas | <p align="left">https://bit.ly/engineering-com-aws</p>
+03 | Gerenciamento de Projeto de Software | 120 Horas |  <p align="left">https://bit.ly/gerenciamento-projeto-software</p>
+04 | Bootcamp Desenvolvedor Business Intelligence | 148 Horas | <p align="left">https://bit.ly/business--intelligence</p>
+05 | Bootcamp Ciencias de Dados | 148 Horas | <p align="left">https://bit.ly/ciencias-de-dados</p>
 
 <br />
 <br />
