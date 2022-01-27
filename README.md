@@ -8,10 +8,10 @@
 
 #### Meu nome é Adriano Vilela, atuo há mais de 6 anos na área de tecnologia da informação, formação acadêmica, bacharelado em Engenharia de Software e estou cursando MBA em Tecnologia para Negócios AI, Data Science e Big Data.
 
-<p>
-<p>
+<p></p>
 
-#### Atualmente exerço a função de Analista de Inteligência de Dados no Grupo Águia Branca, empresa brasileira do segmento de transporte rodoviário de passageiros, com atuação em vários estados.
+  
+#### Atualmente exerço a função de Analista de Inteligência de Dados no Grupo Águia Branca, empresa brasileira do segmento de logística, com atuação em vários estados.
 
 <br />
 <br />
@@ -41,25 +41,35 @@ Cód. | Curso | Carga Horária
 <br />
 <br />
 
-### Ferramentas e Tecnologias Utilizadas no Dia-A-Dia
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="40" height="40"/>&ensp;&ensp;
+### Ferramentas e Tecnologias
+<div align="center">
+  <br />
+<img src="https://img.icons8.com/nolan/64/github.png" width="40" height="40"/>&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/>&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/> &ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" /> &ensp;&ensp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" /> &ensp;&ensp;
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40" height="40" />&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="40" height="40"/>&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" />&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40" height="40"/>&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />&ensp;&ensp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>&ensp;&ensp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>&ensp;&ensp;<p></>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"/>&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>&ensp;&ensp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>&ensp;&ensp;
-
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"  width="40" height="40"/>&ensp;&ensp;
+<img src="https://img.icons8.com/color/96/000000/power-bi.png"  width="40" height="40"/>&ensp;&ensp;
+<img src="https://img.icons8.com/dusk/64/000000/dbeaver.png" width="40" height="40"/>&ensp;&ensp;
+<img src="https://img.icons8.com/color/48/000000/virtualbox.png"  width="40" height="40"/>&ensp;&ensp;
+<img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png" width="40" height="40"/>&ensp;&ensp;
+<img src="https://img.icons8.com/color/48/000000/pycharm.png" width="40" height="40"/>&ensp;&ensp;
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"  width="40" height="40"/>&ensp;&ensp;
+<img src="https://img.icons8.com/color/48/000000/css3.png"  width="40" height="40"/>&ensp;&ensp;
+</div>
 
 <br />
 <br />
