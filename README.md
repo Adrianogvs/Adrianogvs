@@ -18,7 +18,7 @@
 
 
 ### Cursos Concluídos e Certificações
-Cód. | Curso | Carga Horária | Certificados
+Item | Curso | Carga Horária | Certificados
 -----|-----|-----|-----
 01 | Bacharel em Engenharia de Software | 3600 Horas | <p align="left">https://bit.ly/engenharia--de--software</p>
 02 | Bootcamp Data Engineering Com AWS & Cia | 18 Horas | <p align="left">https://bit.ly/engineering-com-aws</p>
