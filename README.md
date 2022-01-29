@@ -30,7 +30,7 @@ Cód. | Curso | Carga Horária | Certificados
 <br />
 
 ### Cursos em Andamento
-Cód. | Curso | Carga Horária 
+Item | Curso | Carga Horária 
 ---|---|---
 01 | MBA em Tecnologia para Negócios AI, Data Science e Big Data. | 660 Horas
 02 | Data Science em Produção | 452 Horas
