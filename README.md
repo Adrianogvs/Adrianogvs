@@ -81,6 +81,11 @@ Item | Curso | Carga Horária
 <br />
 
 ### Estatisticas GitHub
+<br />
+<br />
+<a href="https://github.com/Adrianogvs/github-readme-activity-graph"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adrianogvs&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br />
+<br />
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianogvs&layout=compact&langs_count=7&theme=highcontrast"/>
@@ -91,7 +96,7 @@ Item | Curso | Carga Horária
 
 </div
 
-<br />
+
 <br />
 
 ### Contatos:
@@ -101,7 +106,6 @@ Item | Curso | Carga Horária
 <div align="center">
 <a href="https://www.linkedin.com/in/adrianogvs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   <a href="https://www.instagram.com/adriano.gvs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:adriano.silva@alunos.unicesumar.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
 
 
 
