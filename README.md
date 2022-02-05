@@ -83,9 +83,6 @@ Item | Curso | Carga Horária
 ### Estatisticas GitHub
 <br />
 <br />
-<a href="https://github.com/Adrianogvs/github-readme-activity-graph"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adrianogvs&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br />
-<br />
 <div align="center">
 
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adrianogvs&bg_color=000000&color=ffffff&line=00fa57&point=00fa04&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=Adrianogvs&theme=react-dark&area=true&hide_border=true)
