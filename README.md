@@ -87,10 +87,8 @@ Item | Curso | Carga Horária
 
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adrianogvs&bg_color=000000&color=ffffff&line=00fa57&point=00fa04&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=Adrianogvs&theme=react-dark&area=true&hide_border=true)
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianogvs&layout=compact&langs_count=7&theme=highcontrast"/>
-  <p>
-  <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianogvs&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="208em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianogvs&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="208em" src="https://github-readme-stats.vercel.app/api?username=adrianogvs&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 <a href="https://github.com/adrianogvs">
 
 </div
