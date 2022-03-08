@@ -6,12 +6,28 @@
 
 <br />
 
-#### Meu nome é Adriano Vilela, atuo há mais de 6 anos na área de tecnologia da informação, formação acadêmica, bacharelado em Engenharia de Software e estou cursando MBA em Tecnologia para Negócios AI, Data Science e Big Data.
+#### Olá, seja bem-vindo(a) ao meu LinkedIn. Sinta-se à vontade para entrar em contato para dúvidas ou sugestões.
 
-<p></p>
+Meu nome é Adriano Viela, sou formado em Engenharia de Software, estou fazendo MBA em Tecnologia Para Negócios: AI, Data Science e Big Data, trabalho como Analista de Inteligência de Dados no mercado de logística.
 
-  
-#### Atualmente exerço a função de Analista de Inteligência de Dados no Grupo Águia Branca, empresa brasileira do segmento de logística, com atuação em vários estados.
+Atualmente, trabalho com levantamento de requisitos junto aos clientes internos, análise e seleção de dados, construção de dashboards e acompanhamento de projetos.
+
+Além do MBA, faço parte da Comunidade Data Science, no qual estou adquirindo experiência na solução de problemas de negócios, aplicando inúmeros conceitos utilizando diversas ferramentas de análise de dados e desenvolvendo projetos sobre Ciências de Dados.
+
+Estou buscando uma oportunidade de trabalhar profissionalmente como Cientista de Dados para melhorar a toma de decisão da empresa, através da construção de soluções usando dados.
+
+#### Durante minha jornada de trabalho, apresentei as principais entregas:
+* Coordenação, planejamento e execuções do projeto TACOM / GVBUS / CETURB no estado de Espirito Santo - ES. Em que foi automatizado a forma de validação dos créditos eletrônicos nos validadores embarcados nos ônibus e nos terminais, sendo todo o sistema informatizado por cartões eletrônicos.
+* Conhecimento amplo do negócio, adquirido especialmente pela atuação em cargos diversos após promoções (Assistente Administrativo, Técnico de Informática, Analista de Negócios e por fim, sendo promovido a Coordenador Administrativo);
+* Atuação estratégica auxiliando na extração de dados para criação de KPI para diversos setores da empresa, auxiliando na tomadas de decisões dos gestores.
+
+#### Dentre os meus principais desafios e responsabilidades, destaco:
+* Gestão de processos internos e externo na parte de infraestrutura física;
+* Sustentação do sistema ERP Globus;
+* Treinamentos e suporte aos clientes internas referentes ao sistema ERP em todos os módulos;
+* Elaborar relatórios na plataforma ERP Globus Report;
+* Auditor interno da empresa utilizando a ferramenta ISSO 9001:2015.
+
 
 <br />
 <br />
