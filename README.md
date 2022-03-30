@@ -14,7 +14,7 @@ Atualmente, trabalho com levantamento de requisitos junto aos clientes internos,
 
 Além do MBA, faço parte da Comunidade Data Science, no qual estou adquirindo experiência na solução de problemas de negócios, aplicando inúmeros conceitos utilizando diversas ferramentas de análise de dados e desenvolvendo projetos sobre Ciências de Dados.
 
-Estou buscando uma oportunidade de trabalhar profissionalmente como Cientista de Dados para melhorar a toma de decisão da empresa, através da construção de soluções usando dados.
+Estou buscando uma oportunidade de trabalhar profissionalmente como Cientista de Dados para melhorar a tomada de decisão da empresa, através da construção de soluções usando dados.
 
 #### Durante minha jornada de trabalho, apresentei as principais entregas:
 * Coordenação, planejamento e execuções do projeto TACOM / GVBUS / CETURB no estado de Espirito Santo - ES. Em que foi automatizado a forma de validação dos créditos eletrônicos nos validadores embarcados nos ônibus e nos terminais, sendo todo o sistema informatizado por cartões eletrônicos.
