@@ -6,7 +6,7 @@
 
 <br />
 
-#### Olá, seja bem-vindo(a) ao meu LinkedIn. Sinta-se à vontade para entrar em contato para dúvidas ou sugestões.
+#### Olá, seja bem-vindo(a) ao meu GitHub. Sinta-se à vontade para entrar em contato para dúvidas ou sugestões.
 
 Meu nome é Adriano Viela, sou formado em Engenharia de Software, estou fazendo MBA em Tecnologia Para Negócios: AI, Data Science e Big Data, trabalho como Analista de Inteligência de Dados no mercado de logística.
 
