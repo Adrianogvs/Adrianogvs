@@ -41,6 +41,7 @@ Item | Curso | Carga Horária | Certificados
 03 | Gerenciamento de Projeto de Software | 120 Horas |  <p align="left">https://bit.ly/gerenciamento-projeto-software</p>
 04 | Bootcamp Desenvolvedor Business Intelligence | 148 Horas | <p align="left">https://bit.ly/business--intelligence</p>
 05 | Bootcamp Ciencias de Dados | 148 Horas | <p align="left">https://bit.ly/ciencias-de-dados</p>
+06 | Bootcamp Desenvolver Python | 148 Horas | <https://bit.ly/desenvolvedor_python>
 
 <br />
 <br />
@@ -49,10 +50,10 @@ Item | Curso | Carga Horária | Certificados
 Item | Curso | Carga Horária 
 ---|---|---
 01 | MBA em Tecnologia para Negócios AI, Data Science e Big Data. | 660 Horas
-02 | Data Science em Produção | 452 Horas
-03 | Bootcamp Desenvolver Python | 148 Horas
+02 | Formação Engenheiro de Dados | 304 Horas
 04 | Microsoft Power BI Para Data Science, Versão 2.0 | 72 Horas
 05 | Python Fundamentos Para Análise de Dados 3.0 | 60 Horas
+06 | Power BI Experience | 200 Horas
 
 
 
