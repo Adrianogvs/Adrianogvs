@@ -12,7 +12,7 @@ Meu nome é Adriano Viela, sou formado em Engenharia de Software, estou fazendo 
 
 Atualmente, trabalho com levantamento de requisitos junto aos clientes internos, análise e seleção de dados, construção de dashboards e acompanhamento de projetos.
 
-Além do MBA, faço o curso de Engenharia de Dados da DSA, no qual estou adquirindo experiência na solução de problemas de negócios, aplicando inúmeros conceitos utilizando diversas ferramentas de análise de dados e desenvolvendo projetos sobre Engenharia de Dados.
+Além do MBA, faço o curso de Formação de Engenharia de Dados da Data Science Academy (DSA), no qual estou adquirindo experiência na solução de problemas de negócios, aplicando inúmeros conceitos utilizando diversas ferramentas de análise de dados e desenvolvendo projetos sobre Engenharia de Dados.
 
 Estou buscando uma oportunidade de trabalhar profissionalmente como Engenheiro de Dados para melhorar a tomada de decisão da empresa, através da construção de soluções usando dados.
 
