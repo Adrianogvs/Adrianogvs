@@ -15,7 +15,7 @@ Sou Engenheiro de Dados, Analista de Business Intelligence e Facilitador na Comp
 
 ## 📂 Projetos Destacados
 
-### [001_PosGraduacaoEngenhariaDeDados](https://github.com/Adrianogvs/001_PosGraduacaoEngenhariaDeDados)
+### [001_PosGraduacaoEngenhariaDeDados](https://github.com/Adrianogvs/001_PosGraduacaoEngengariaDeDados)
 Repositório com estudos e projetos da pós-graduação em Engenharia de Dados.
 
 ### [002_Engenharia_de_Dados_Azure](https://github.com/Adrianogvs/002_Engenharia_de_Dados_Azure)
