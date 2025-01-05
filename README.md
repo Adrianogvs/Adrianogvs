@@ -29,8 +29,18 @@ Análises de mercado financeiro usando Python e Jupyter Notebooks.
 - GitHub: [github.com/Adrianogvs](https://github.com/Adrianogvs)
 
 ## 🎨 Design e Estilo
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adrianogvs&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianogvs&layout=compact&theme=dark)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Adrianogvs&show_icons=true&theme=dark" alt="GitHub Stats" width="100%" height="200px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianogvs&layout=compact&theme=dark" alt="Top Languages" width="100%" height="200px" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 ⚡ *"Transformando dados em valor, um byte por vez."*
