@@ -9,7 +9,7 @@ Sou Engenheiro de Dados, Analista de Business Intelligence e Facilitador na Comp
 
 ## 🛠️ Habilidades
 - **Linguagens**: Python, SQL
-- **Ferramentas**: Azure Data Factory, Power BI, Databricks
+- **Ferramentas**: Azure, AWS, Databricks, Docker, Airflow, Kafka, GitHub, Terraform, Streamlit, Power BI
 - **Frameworks**: Pandas, NumPy, Matplotlib
 - **Outras**: Git, Jupyter Notebooks
 
