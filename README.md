@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Adriano Vilela!
 
 ## 🚀 Sobre Mim
-Sou Engenheiro de Dados, Analista de Business Intelligence e Facilitador na Compass UOL. Minha paixão é transformar dados em insights poderosos e contribuir para a tomada de decisões estratégicas.
+Sou Analytics Engineer, Analista de Business Intelligence e Facilitador na Compass UOL. Minha paixão é transformar dados em insights poderosos e contribuir para a tomada de decisões estratégicas.
 
 - 🌱 Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados na Azure.
 - 💼 Tenho experiência com T-SQL, Python, e ferramentas de análise de dados.
