@@ -21,7 +21,7 @@ Repositório com projetos referente a um sistema App Web Gestão de Viagens.
 ### [002_Engenharia_de_Dados_Azure](https://github.com/Adrianogvs/002_Engenharia_de_Dados_Azure)
 Projetos práticos desenvolvidos durante a formação em Engenharia de Dados na Azure.
 
-### [003_CM_Capital](https://github.com/Adrianogvs/007_CM_Capital)
+### [003_CM_Capital Ler PDF com Python](https://github.com/Adrianogvs/007_CM_Capital)
 Análises de mercado financeiro usando Python e Jupyter Notebooks.
 
 ## 📫 Contato
