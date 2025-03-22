@@ -15,14 +15,18 @@ Sou Analytics Engineer, Analista de Business Intelligence e Facilitador na Compa
 
 ## 📂 Projetos Destacados
 
-### [001-Projeto App Web Horizonte Turismo](https://github.com/Adrianogvs/horizonte_turismo)
+### [01: Projeto App Web Horizonte Turismo](https://github.com/Adrianogvs/horizonte_turismo)
 Repositório com projetos referente a um sistema App Web Gestão de Viagens.
 
-### [002_Engenharia_de_Dados_Azure](https://github.com/Adrianogvs/002_Engenharia_de_Dados_Azure)
+### [02: Engenharia de Dados Azure](https://github.com/Adrianogvs/002_Engenharia_de_Dados_Azure)
 Projetos práticos desenvolvidos durante a formação em Engenharia de Dados na Azure.
 
-### [003_CM_Capital_Ler_PDF_com_Python](https://github.com/Adrianogvs/007_CM_Capital)
+### [03: Leitura e Extração de Dados de PDF com Python](https://github.com/Adrianogvs/007_CM_Capital)
 Análises de mercado financeiro usando Python e Jupyter Notebooks.
+
+### [04: Projeto inspirado em um cenário real da Petrobras](https://github.com/Adrianogvs/projeto-nosql-iot)
+Simular um cenário de ponta a ponta de coleta, tratamento e análise de dados IoT em ambientes críticos, como o setor de óleo e gás.
+
 
 ## 📫 Contato
 - LinkedIn: [linkedin.com/in/adrianogvs](https://www.linkedin.com/in/adrianogvs)
