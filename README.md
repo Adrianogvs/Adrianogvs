@@ -21,7 +21,7 @@ Simular um cenário de ponta a ponta de coleta, tratamento e análise de dados I
 ### [02: Projeto Engenharia de Dados AWS](https://github.com/Adrianogvs/aws-weather-realtime-etl)
 Este projeto simula a ingestão, tratamento e análise de dados climáticos em tempo real e em batch com notificações automáticas.
 
-### [03: Engenharia de Dados Azure](https://github.com/Adrianogvs/002_Engenharia_de_Dados_Azure)
+### [03: Projeto Engenharia de Dados Azure](https://github.com/Adrianogvs/002_Engenharia_de_Dados_Azure)
 Projetos práticos desenvolvidos durante a formação em Engenharia de Dados na Azure.
 
 ### [04: Leitura e Extração de Dados de PDF com Python](https://github.com/Adrianogvs/007_CM_Capital)
