@@ -3,7 +3,7 @@
 ## 🚀 Sobre Mim
 Sou Analytics Engineer, Analista de Business Intelligence e Facilitador na Compass UOL. Minha paixão é transformar dados em insights poderosos e contribuir para a tomada de decisões estratégicas.
 
-- 🌱 Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados na Azure.
+- 🌱 Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados na Azure e AWS.
 - 💼 Tenho experiência com T-SQL, Python, e ferramentas de análise de dados.
 - 🎯 Objetivo: Construir soluções escaláveis e eficientes para desafios de dados complexos.
 
