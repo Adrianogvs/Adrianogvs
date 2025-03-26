@@ -15,7 +15,7 @@ Sou Analytics Engineer, Analista de Business Intelligence e Facilitador na Compa
 
 ## 📂 Projetos Destacados
 
-### [01: Projeto inspirado em um cenário real da Petrobras](https://github.com/Adrianogvs/projeto-nosql-iot)
+### [01: Projeto inspirado em um cenário real de uma empresa setor de Óleo e Gás](https://github.com/Adrianogvs/projeto-nosql-iot)
 Simular um cenário de ponta a ponta de coleta, tratamento e análise de dados IoT em ambientes críticos, como o setor de óleo e gás.
 
 ### [02: Projeto Engenharia de Dados AWS](https://github.com/Adrianogvs/aws-weather-realtime-etl)
