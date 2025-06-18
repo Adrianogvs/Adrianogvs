@@ -52,26 +52,34 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=data&logoColor=white">
 
-  <h2>📂 Projetos Destacados</h2>
 
-<ul>
-  <li>
-    <b><a href="https://github.com/Adrianogvs/projeto-nosql-iot">Projeto inspirado em um cenário real de uma empresa setor de Óleo e Gás</a></b><br>
-    Simular um cenário de ponta a ponta de coleta, tratamento e análise de dados IoT em ambientes críticos, como o setor de óleo e gás.
-  </li>
-  <li>
-    <b><a href="https://github.com/Adrianogvs/aws-weather-realtime-etl">02: Projeto Engenharia de Dados AWS</a></b><br>
-    Este projeto simula a ingestão, tratamento e análise de dados climáticos em tempo real e em batch com notificações automáticas.
-  </li>
-  <li>
-    <b><a href="https://github.com/Adrianogvs/002_Engenharia_de_Dados_Azure">03: Projeto Engenharia de Dados Azure</a></b><br>
-    Projetos práticos desenvolvidos durante a formação em Engenharia de Dados na Azure.
-  </li>
-  <li>
-    <b><a href="https://github.com/Adrianogvs/007_CM_Capital">04: Leitura e Extração de Dados de PDF com Python</a></b><br>
-    Análises de mercado financeiro usando Python e Jupyter Notebooks.
-  </li>
-</ul>
+<h2>📂 Projetos Destacados</h2>
+
+<table width="1000px">
+  <tr>
+    <td align="left">
+      <ul>
+        <li>
+          <b><a href="https://github.com/Adrianogvs/projeto-nosql-iot">Projeto inspirado em um cenário real de uma empresa setor de Óleo e Gás</a></b><br>
+          Simular um cenário de ponta a ponta de coleta, tratamento e análise de dados IoT em ambientes críticos, como o setor de óleo e gás.
+        </li>
+        <li>
+          <b><a href="https://github.com/Adrianogvs/aws-weather-realtime-etl">02: Projeto Engenharia de Dados AWS</a></b><br>
+          Este projeto simula a ingestão, tratamento e análise de dados climáticos em tempo real e em batch com notificações automáticas.
+        </li>
+        <li>
+          <b><a href="https://github.com/Adrianogvs/002_Engenharia_de_Dados_Azure">03: Projeto Engenharia de Dados Azure</a></b><br>
+          Projetos práticos desenvolvidos durante a formação em Engenharia de Dados na Azure.
+        </li>
+        <li>
+          <b><a href="https://github.com/Adrianogvs/007_CM_Capital">04: Leitura e Extração de Dados de PDF com Python</a></b><br>
+          Análises de mercado financeiro usando Python e Jupyter Notebooks.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 
   <h2>📫 Contato</h2>
