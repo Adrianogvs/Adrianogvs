@@ -3,20 +3,25 @@
 </div>
 
 <h3 align="center">
-  ⚙️ Data Engineer &nbsp;•&nbsp; 📊 Analytics Engineer &nbsp;•&nbsp; 💡 Business Intelligence
+⚙️ Data Engineer • 📊 Analytics Engineer • 💡 Business Intelligence
 </h3>
 
-<!-- Cards lado a lado, centralizados, mesma largura do banner -->
-<div align="center">
-  <img width="490px" src="https://github-readme-stats.vercel.app/api?username=Adrianogvs&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"/>
-  <img width="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianogvs&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0"/>
-</div>
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 24px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adrianogvs&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"
+       style="width: 370px; height: 200px; object-fit: contain; background: #0d1117; border-radius: 12px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianogvs&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0"
+       style="width: 370px; height: 200px; object-fit: contain; background: #0d1117; border-radius: 12px;"/>
+</div>
 <br>
+<br>
+
+
 <div align="center">
   <img width="1000px" height="8px" src="./.github/assets/lineBar.png"/>
 </div>
 
+<div><br />
 <div align="center">
 
   <h2>🚀 Sobre Mim</h2>
