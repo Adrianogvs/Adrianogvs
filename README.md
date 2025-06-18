@@ -44,7 +44,7 @@
   </table>
 
   <h2>&nbsp;My Stack</h2>
-  <hr width="1000px"/>
+
   <img width="800px" src="https://skillicons.dev/icons?i=azure,aws,gcp,python,postgres,docker,kubernetes,terraform,linux,github,git,vscode&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/Databricks-EF3A2A?style=for-the-badge&logo=databricks&logoColor=white">
@@ -57,7 +57,7 @@
   <table width="1000px">
     <tr><td align="left">
       <p>
-        <b>[01: Projeto inspirado em um cenário real de uma empresa setor de Óleo e Gás](https://github.com/Adrianogvs/projeto-nosql-iot)</b><br>
+        <b>[Projeto inspirado em um cenário real de uma empresa setor de Óleo e Gás](https://github.com/Adrianogvs/projeto-nosql-iot)</b><br>
         Simular um cenário de ponta a ponta de coleta, tratamento e análise de dados IoT em ambientes críticos, como o setor de óleo e gás.
       </p>
       <p>
