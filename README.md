@@ -54,26 +54,25 @@
 
   <h2>📂 Projetos Destacados</h2>
 
-  <table width="1000px">
-    <tr><td align="left">
-      <p>
-        <b>[Projeto inspirado em um cenário real de uma empresa setor de Óleo e Gás](https://github.com/Adrianogvs/projeto-nosql-iot)</b><br>
-        Simular um cenário de ponta a ponta de coleta, tratamento e análise de dados IoT em ambientes críticos, como o setor de óleo e gás.
-      </p>
-      <p>
-        <b>[02: Projeto Engenharia de Dados AWS](https://github.com/Adrianogvs/aws-weather-realtime-etl)</b><br>
-        Este projeto simula a ingestão, tratamento e análise de dados climáticos em tempo real e em batch com notificações automáticas.
-      </p>
-      <p>
-        <b>[03: Projeto Engenharia de Dados Azure](https://github.com/Adrianogvs/002_Engenharia_de_Dados_Azure)</b><br>
-        Projetos práticos desenvolvidos durante a formação em Engenharia de Dados na Azure.
-      </p>
-      <p>
-        <b>[04: Leitura e Extração de Dados de PDF com Python](https://github.com/Adrianogvs/007_CM_Capital)</b><br>
-        Análises de mercado financeiro usando Python e Jupyter Notebooks.
-      </p>
-    </td></tr>
-  </table>
+<ul>
+  <li>
+    <b><a href="https://github.com/Adrianogvs/projeto-nosql-iot">Projeto inspirado em um cenário real de uma empresa setor de Óleo e Gás</a></b><br>
+    Simular um cenário de ponta a ponta de coleta, tratamento e análise de dados IoT em ambientes críticos, como o setor de óleo e gás.
+  </li>
+  <li>
+    <b><a href="https://github.com/Adrianogvs/aws-weather-realtime-etl">02: Projeto Engenharia de Dados AWS</a></b><br>
+    Este projeto simula a ingestão, tratamento e análise de dados climáticos em tempo real e em batch com notificações automáticas.
+  </li>
+  <li>
+    <b><a href="https://github.com/Adrianogvs/002_Engenharia_de_Dados_Azure">03: Projeto Engenharia de Dados Azure</a></b><br>
+    Projetos práticos desenvolvidos durante a formação em Engenharia de Dados na Azure.
+  </li>
+  <li>
+    <b><a href="https://github.com/Adrianogvs/007_CM_Capital">04: Leitura e Extração de Dados de PDF com Python</a></b><br>
+    Análises de mercado financeiro usando Python e Jupyter Notebooks.
+  </li>
+</ul>
+
 
   <h2>📫 Contato</h2>
   <p>
