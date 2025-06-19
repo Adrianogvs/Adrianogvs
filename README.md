@@ -45,7 +45,8 @@
 
   <h2>&nbsp;Tecnologias que eu uso</h2>
 
-  <img width="800px" src="https://skillicons.dev/icons?i=azure,aws,gcp,python,postgres,docker,kubernetes,terraform,linux,github,git,vscode&theme=dark" />
+  <img width="800px" src="https://skillicons.dev/icons?i=azure,aws,python,postgres,docker,kubernetes,terraform,linux,github,git,kafka,postman,mongo,fastapi,vscode&theme=dark" />
+
   <br>
   <img src="https://img.shields.io/badge/Databricks-EF3A2A?style=for-the-badge&logo=databricks&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
@@ -85,7 +86,8 @@
   <h2>📫 Contato</h2>
   <p>
     - LinkedIn: <a href="https://www.linkedin.com/in/adrianogvs">linkedin.com/in/adrianogvs</a><br>
-    - GitHub: <a href="https://github.com/Adrianogvs">github.com/Adrianogvs</a>
+    - GitHub: <a href="https://github.com/Adrianogvs">github.com/Adrianogvs</a><br>
+    - Portfólio: <a href="https://adrianogvs.com.br">adrianogvs.com.br</a>
   </p>
   <br>
   <img width="1000px" height="8px" src="./.github/assets/lineBar.png"/>
