@@ -61,7 +61,7 @@
     <td align="left">
       <ul>
         <li>
-          <b><a href="https://github.com/Adrianogvs/projeto-nosql-iot">Projeto inspirado em um cenário real de uma empresa setor de Óleo e Gás</a></b><br>
+          <b><a href="https://github.com/Adrianogvs/projeto-nosql-iot">01: Projeto inspirado em um cenário real de uma empresa setor de Óleo e Gás</a></b><br>
           Simular um cenário de ponta a ponta de coleta, tratamento e análise de dados IoT em ambientes críticos, como o setor de óleo e gás.
         </li>
         <li>
