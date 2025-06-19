@@ -43,7 +43,7 @@
     </tr>
   </table>
 
-  <h2>&nbsp;My Stack</h2>
+  <h2>&nbsp;Tecnologias que eu uso</h2>
 
   <img width="800px" src="https://skillicons.dev/icons?i=azure,aws,gcp,python,postgres,docker,kubernetes,terraform,linux,github,git,vscode&theme=dark" />
   <br>
