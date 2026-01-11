@@ -6,12 +6,17 @@
 ⚙️ Data Engineer • 📊 Analytics Engineer • 💡 Business Intelligence
 </h3>
 
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 24px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adrianogvs&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"
-       style="width: 370px; height: 200px; object-fit: contain; background: #0d1117; border-radius: 12px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianogvs&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0"
-       style="width: 370px; height: 200px; object-fit: contain; background: #0d1117; border-radius: 12px;"/>
+<div><br />
+<table align="center">
+  <tr>
+    <td>
+      <img src="./.github/assets/stats.svg" width="370" />
+    </td>
+    <td>
+      <img src="./.github/assets/top-langs.svg" width="370" />
+    </td>
+  </tr>
+</table>
 </div>
 <br>
 <br>
