@@ -93,7 +93,7 @@
       <td align="left">
         <ul>
           <li>🏆 <b>Databricks Data Engineer Associate</b> (2025)</li>
-          <li>🏆 <b>DP-600: Azure abric Analytics Engineer Associate</b> (2026)</li>
+          <li>🏆 <b>DP-600: Azure Fabric Analytics Engineer Associate</b> (2026)</li>
           <li>🏆 <b>DP-203: Azure Data Engineer Associate</b> (2025)</li>
           <li>🏆 <b>AI-102: Azure AI Engineer Associate</b> (2025)</li>
           <li>🏆 <b>PL-300: Power BI Data Analyst</b> (2025)</li>
