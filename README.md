@@ -81,6 +81,10 @@
             <b><a href="https://github.com/Adrianogvs/007_CM_Capital">04: Extração e Análise de Dados Financeiros com Python</a></b><br>
             Pipeline de extração de dados de PDFs e análise de mercado financeiro com Python e Jupyter Notebooks.
           </li>
+          <li>
+            <b><a href="https://github.com/Adrianogvs/projeto_fabric_antt">05: Pipeline de Acidentes ANTT — Microsoft Fabric</a></b><br>
+            Pipeline end-to-end no Microsoft Fabric seguindo Medallion Architecture (Bronze → Silver → Gold) com Constellation Schema, PySpark, Delta Lake, Data Pipeline e relatório Power BI em modo Direct Lake — cobrindo 1 milhão de registros de acidentes em rodovias federais concedidas (35 concessionárias, 2007–2025).
+          </li>
         </ul>
       </td>
     </tr>
